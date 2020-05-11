@@ -14,28 +14,28 @@ in the hospital (using the DS4C dataset).
 
 ### Directory Structure
 ```
-    /datasets
-        /caltech_covid_19_modeling
-        /korea_dataset
-        /COVID19
-    /img
-    /main
-        COVID-19 Notebook.ipynb
-    .gitignore
-    README.md
+/datasets
+    /caltech_covid_19_modeling
+    /korea_dataset
+    /COVID19
+/img
+/main
+    COVID-19 Notebook.ipynb
+.gitignore
+README.md
 ```
 
 ### Running the repo
 #### Downloading the source code & datasets
 ```
-    git clone https://github.com/wlawt/covid19-project.git
-    cd covid19-project/main
+git clone https://github.com/wlawt/covid19-project.git
+cd covid19-project/main
 ```
 
 #### Running the model 
 We suggest to consider additional factors for the linear regression models. 
 ```
-    COVID-19 Notebook.ipynb
+COVID-19 Notebook.ipynb
 ```
 
 ### Forecasting graphs
