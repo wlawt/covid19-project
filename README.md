@@ -11,6 +11,7 @@ in the hospital (using the DS4C dataset).
 - [DS4C Kaggle Korea Dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 - [John Hopkins University Dataset](https://github.com/CSSEGISandData/COVID-19)
 - [CalTech CS156b Dataset Collection](https://github.com/quantummind/caltech_covid_19_modeling)
+- [therealcyberlord's Kaggle Notebook](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction)
 
 ### Directory Structure
 ```
